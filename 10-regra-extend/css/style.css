@@ -1,0 +1,9 @@
+.error, .error--serios {
+  background-color: #ffa6a6;
+  border: 1px solid #f00;
+  margin: 10px;
+  padding: 10px;
+}
+.error--serios {
+  border-radius: 3px;
+}
